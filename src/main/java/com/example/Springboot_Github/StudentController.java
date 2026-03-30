@@ -11,6 +11,7 @@ public String test() {
 }
 @RequestMapping("/contact")
 public String contact() {
-	return "Contact Us : 7223999341";
+	return "Contact Us : 8084540916";
 }
+
 }
